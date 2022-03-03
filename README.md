@@ -4,7 +4,7 @@ Code samples and demos done while learning the NEAR protocol written in Typescri
 
 ## Setup
 
--Install dependencies:
+Install dependencies:
 
 ```bash
 npm i
